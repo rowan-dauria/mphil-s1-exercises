@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.ipynb_checkpoints/
+.conda/
+.venv*/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+.coverage.*
+
+# IDEs and editors
+.vscode/
+.idea/
+.spyproject/
+.ropeproject/
+
+# Mac and system files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook metadata
+*.nbconvert.ipynb
+
+# PyCharm & VSCode notebooks metadata
+.ipynb_checkpoints/
+*.ipynb_checkpoint
+
+# Data / temporary files (optional)
+data/
+*.csv
+*.tsv
+*.log
+*.tmp
+*.bak
+
+# Environment variables / secrets
+.env
+.env.*
+*.secret
+secrets.json
+
+# Jupyter runtime
+.jupyter/
